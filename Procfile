@@ -1,1 +1,1 @@
-bot: python main.py
+bot: python PC_Miner.py
