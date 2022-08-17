@@ -1,0 +1,2 @@
+# duino-miner
+DUCO Miner
